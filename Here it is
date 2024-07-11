@@ -1,0 +1,49 @@
+<!DOCTYPE html> 
+    <html lang="en">
+    <head> <title>Animal Trading Cards</title>
+    <style> .card {/* Border style */
+        box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.5);
+                border-style: solid; 
+                border-width: 1px;
+                border-color: gray;
+                width:300px; height:100%;
+                padding:1em;
+                margin-left:20px;
+                margin-right:20px;
+                margin-top:20px;
+                margin-bottom:20px;}
+    h1 {padding:15px;font-size:45px}
+    p   {background-color:bisque; 
+        border-style: solid; 
+        border-width:1px;
+        border-color:gray; 
+        margin-left: 10px; 
+        margin-right:10px;
+        padding:1em }
+    body {font-family:'Times New Roman', Times, serif;
+            font-size:18px}
+img {padding-right:0.5em;width:300px;}
+
+        </style>
+<script>Animal.Trading.Cards</script>
+<meta name="description"
+content="Animal Fact">
+</head>
+<body class="card">
+<h1>Feline</h1>
+<img src="https://i.postimg.cc/j51KLPxv/catimage.jpg" alt="Cat Image">
+<p><em>Cats can purr both when they inhale and exhale.</em> <br>
+<br>
+<strong>Scientific Name:</strong> Felis catus
+<br><strong>Average Length:</strong> 18 inches
+<br><strong>Average Lifespan:</strong> 15 years
+<br><strong>Habitat:</strong> For cats, their natural habitat includes a range of environments, <br> from deserts to forests, and from grasslands to wetlands.
+<br>
+<br>Commonly referred to as the domestic cat or house cat, is a small carnivorous mammal.
+<br>Cats have highly developed senses, including excellent hearing and sense of smell.
+<br>They can see better than humans in dark and dim light.
+<br>Cats are expert hunters. In the wild they'll spend 6-8 hours a day hunting. <br>
+Domesticated cats have been tamed for nearly 10,000 years. 
+
+</p></body>
+</html>
